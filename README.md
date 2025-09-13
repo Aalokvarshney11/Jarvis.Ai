@@ -61,9 +61,9 @@ Install Dependencies
 pip install -r Jarvis.Ai/imports.txt
   ```
 
+---
 
-
-🚀 Usage 
+## 🚀 Usage 
 Run Jarvis
 Now, speak commands like:
 ➤ "Jarvis, play music"
@@ -72,7 +72,7 @@ Now, speak commands like:
 jarvis will listen and respond to you.
 
 
-⫸ 📝 Example Commands
+## 📝 Example Commands
 Here are some example commands you can try:
 | Command          | Action                          |
 | ---------------- | ------------------------------- |
@@ -82,35 +82,57 @@ Here are some example commands you can try:
 | `how are you`    | Jarvis replies conversationally |
 | `exit` or `quit` | Stops Jarvis                    |
 
+---
 
-⚙️ Tech Stack
+## ⚙️ Tech Stack
+
+
 ⫸ Python (Core Programming Language)
+
 ⫸ SpeechRecognition (Voice Input)
+
 ⫸ pyttsx3 (Text-to-Speech)
+
 ⫸ simpleaudio / playsound (Music Playback)
 
+---
 
+## 🤝 Contributing
 
-🤝 Contributing
 Contributions are welcome!
 
 ⫸ To contribute:
+
 ⫸ Fork the repository
+
 ⫸ Create a new branch (git checkout -b feature-name)
+
 ⫸ Commit your changes (git commit -m "Added a new feature")
+
 ⫸ Push to your fork (git push origin feature-name)
+
 ⫸ Open a Pull Request
 
+---
 
-💡 Future Plans
+## 💡 Future Plans
+
 ⫸ Add voice wake word detection ("Hey Jarvis")
+
 ⫸ Integrate AI model for better conversations
+
 ⫸ Smart home control features
+
 ⫸ Mobile app integration
 
+---
 
-👨‍💻 Author
+## 👨‍💻 Author
+
 
 🞜 Your Name
+
 🞜 GitHub: Aalokvarshney11
+
 🞜 Email: varshneyaditya11@gmail.com
+
