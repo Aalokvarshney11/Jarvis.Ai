@@ -1,6 +1,9 @@
 # 🤖 Jarvis AI
 
-![Jarvis AI Demo](assets/jarvis.jpg)
+<p align="center">
+  <img src="assets/jarvis.jpg" alt="Jarvis AI Demo" width="800">
+</p>
+
 
 <b> Jarvis AI is a Python-based personal voice assistant inspired by Iron Man's Jarvis.  
 It can listen to your commands, respond intelligently, play music, and perform various tasks on your computer using natural language processing and speech recognition.</b>
@@ -56,6 +59,7 @@ Activate the Virtual Environment
 Install Dependencies
 .bash
 pip install -r Jarvis.Ai/imports.txt
+  ```
 
 
 
