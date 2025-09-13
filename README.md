@@ -130,7 +130,7 @@ Contributions are welcome!
 ## 👨‍💻 Author
 
 
-🞜 Your Name
+🞜 Aalok varshney
 
 🞜 GitHub: Aalokvarshney11
 
